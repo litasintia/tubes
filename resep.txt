@@ -3,3 +3,5 @@ resep krabbypatty:
 2. selada air
 3. tomat
 4. timun
+5. keju
+6. daging sapi
